@@ -1,0 +1,12 @@
+{
+  "name": "grand-slam",
+  "displayName": "grand-slam",
+  "expo": {
+    "name": "grand-slam",
+    "slug": "grand-slam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
